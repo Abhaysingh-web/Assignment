@@ -9,7 +9,7 @@ function App() {
       {/* <Sidebar /> */}
       <Search />
       <SubjectSearch />
-      <SubjectSearch />
+     
     </>
   );
 }
